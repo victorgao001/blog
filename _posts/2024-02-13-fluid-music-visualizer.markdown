@@ -8,5 +8,5 @@ Here's a fluid simulation that responds to sound. It ebbs and flows in sync with
 
 <video controls style="max-width:100%"><source src="{{'/assets/images/2024-02-13a.webm' | relative_url}}"></video>
 
-![image](/assets/images/2024-02-13c.jpg)
-![image](/assets/images/2024-02-13d.jpg)
+![image]({{'/assets/images/2024-02-13c.jpg' | relative_url}})
+![image]({{'/assets/images/2024-02-13d.jpg' | relative_url}})
